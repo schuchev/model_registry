@@ -1,4 +1,3 @@
-# app/db.py
 import os
 import asyncpg
 import asyncio
